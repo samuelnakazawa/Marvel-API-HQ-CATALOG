@@ -10,12 +10,6 @@
 - A aplicação está responsiva.
 
 
-
-## Pendências
-
-As especificações marcadas como "Requisitos necessários" foram todas cumpridas + adição de responsividade ao layout. Restaram como pendências:
-
-
 ## Como rodar
 
 -Clone o projeto;
